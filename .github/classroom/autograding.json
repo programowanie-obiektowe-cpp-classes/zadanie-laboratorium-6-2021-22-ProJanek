@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "zal",
+      "setup": "",
+      "run": "cmake ./; make zal; ./zal",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
