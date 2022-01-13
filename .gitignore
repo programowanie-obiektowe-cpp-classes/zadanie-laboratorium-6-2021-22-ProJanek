@@ -33,3 +33,6 @@
 
 # Build dir
 zal/build/*
+/.vs/zadanie-laboratorium-6-2021-22-ProJanek/config
+/.vs
+/out/build/x64-Debug
